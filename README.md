@@ -1,2 +1,2 @@
-# Loon_rule_config
-loon配置
+# 个人配置仓库
+自用
